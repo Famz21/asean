@@ -1,0 +1,1322 @@
+[
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 19.78130531
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 22.66413116
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 24.67282104
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 25.30601883
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 29.03012466
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 32.52131653
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 33.02656555
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 30.92131042
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 49.00638199
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 55.72327423
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 54.09758377
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 66.05435944
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 69.01600647
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 72.11994934
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 73.5883255
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 72.51950836
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 78.35865784
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 79.16844177
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 93.01556396
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 114.4853439
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 112.2142258
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 122.4164581
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 792.4259644
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 689.1474609
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 744.0791626
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 833.3543701
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 848.5818481
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 892.4286499
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 972.1957398
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 1100.993164
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 1278.492188
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 1316.834961
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 1487.379028
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 1670.382202
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 1824.979248
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 2069.367432
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 2188.335205
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 2279.01709
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 2450.901367
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 2599.300049
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 2641.506348
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 2826.01001
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 3367.756592
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 3969.890869
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 507.3886719
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 463.8158569
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 472.2997437
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 534.1412354
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 617.5216675
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 643.3348389
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 650.2209473
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 695.6499023
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 778.060669
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 729.1307373
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 788.5003052
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 860.0778198
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 867.0618897
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 834.3091431
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 785.590271
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 732.394165
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 681.9734497
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 639.9196777
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 753.8118286
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 674.6516113
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 650.4782105
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 693.4055786
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 15.53566933
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 17.0277462
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 19.14863396
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 25.73569489
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 26.21132469
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 34.40548706
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 44.80917358
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 56.52228165
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 59.79582214
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 62.98189545
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 86.36213684
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 108.0318604
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 106.9016342
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 103.3793182
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 103.0588379
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 97.16175842
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 107.5287094
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 111.5139618
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 111.9118729
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 119.4984436
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 133.2563477
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 160.6417694
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 14.10407162
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 14.47130299
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 12.91643047
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 17.61871719
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 16.27066612
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 17.37983894
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 19.28023911
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 24.81284904
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 26.80659485
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 35.78236008
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 34.58347702
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 27.16216469
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 32.51623917
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 43.56784058
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 45.61304092
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 52.15144348
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 54.51382828
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 61.60005188
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 57.35622025
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 67.81835938
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 52.15844727
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 68.87698364
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 111.9489365
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 114.839119
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 121.4125824
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 141.8682098
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 153.3985138
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 161.6295776
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 199.8557739
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 229.7582092
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 262.7799988
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 244.8389282
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 285.0263977
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 343.198761
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 371.7933044
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 382.191864
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 415.6535339
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 370.7195435
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 353.6402893
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 370.7184448
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 416.3200073
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 427.4628601
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 414.963501
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 487.0088196
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 4.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 5.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 7.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 7.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 7.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 8.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 8.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 10.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 15.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 19.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 20.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 27.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 37.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 37.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 54.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 63.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 59.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 59.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 60.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 62.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 72.0
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 65.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 33.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 28.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 27.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 32.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 34.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 47.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 55.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 65.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 77.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 79.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 91.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 98.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 112.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 122.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 109.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 116.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 120.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 122.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 126.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 142.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 166.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 203.0
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 62.15243912
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 57.19501495
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 69.73505402
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 76.2408905
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 83.09568024
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 90.88136292
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 103.6475601
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 125.625824
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 149.7132263
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 150.3565521
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 169.3820038
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 192.5660706
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 202.520874
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 208.6084442
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 214.5243378
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 219.9191132
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 230.6077423
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 247.9945374
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 275.6711121
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 289.1782837
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 305.0879211
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 364.3696899
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2000,
+        "Health_expenditure_percent_of_GDP": 20.57923889
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2001,
+        "Health_expenditure_percent_of_GDP": 24.96311378
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2002,
+        "Health_expenditure_percent_of_GDP": 21.37000656
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2003,
+        "Health_expenditure_percent_of_GDP": 24.29984856
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2004,
+        "Health_expenditure_percent_of_GDP": 31.21098709
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2005,
+        "Health_expenditure_percent_of_GDP": 38.00711441
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2006,
+        "Health_expenditure_percent_of_GDP": 45.87312698
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2007,
+        "Health_expenditure_percent_of_GDP": 53.68240356
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2008,
+        "Health_expenditure_percent_of_GDP": 64.11656189
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2009,
+        "Health_expenditure_percent_of_GDP": 69.80870819
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2010,
+        "Health_expenditure_percent_of_GDP": 85.4039917
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2011,
+        "Health_expenditure_percent_of_GDP": 97.18331909
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2012,
+        "Health_expenditure_percent_of_GDP": 109.5506668
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2013,
+        "Health_expenditure_percent_of_GDP": 104.4619141
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2014,
+        "Health_expenditure_percent_of_GDP": 120.0268784
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2015,
+        "Health_expenditure_percent_of_GDP": 122.2721329
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2016,
+        "Health_expenditure_percent_of_GDP": 134.4454804
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2017,
+        "Health_expenditure_percent_of_GDP": 149.3087921
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2018,
+        "Health_expenditure_percent_of_GDP": 164.236496
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2019,
+        "Health_expenditure_percent_of_GDP": 173.6494904
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2020,
+        "Health_expenditure_percent_of_GDP": 154.2351074
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2021,
+        "Health_expenditure_percent_of_GDP": 172.5529785
+    }
+]

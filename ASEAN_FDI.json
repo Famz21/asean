@@ -70,30 +70,30 @@
 {"ISO":"IDN","countryname":"Indonesia","Year":2021,"fdi_inflow":21131.11}
 {"ISO":"IDN","countryname":"Indonesia","Year":2022,"fdi_inflow":25389.92}
 {"ISO":"IDN","countryname":"Indonesia","Year":2023,"fdi_inflow":21627.67}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2000,"fdi_inflow":33.89}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2001,"fdi_inflow":23.9}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2002,"fdi_inflow":4.5}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2003,"fdi_inflow":19.4}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2004,"fdi_inflow":17.0}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2005,"fdi_inflow":27.7}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2006,"fdi_inflow":187.4}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2007,"fdi_inflow":323.5}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2008,"fdi_inflow":227.7}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2009,"fdi_inflow":189.5}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2010,"fdi_inflow":278.8}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2011,"fdi_inflow":300.75}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2012,"fdi_inflow":617.75539}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2013,"fdi_inflow":681.39726}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2014,"fdi_inflow":867.64612}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2015,"fdi_inflow":1077.75991}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2016,"fdi_inflow":935.29617}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2017,"fdi_inflow":1686.27579}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2018,"fdi_inflow":1358.01951}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2019,"fdi_inflow":755.52412}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2020,"fdi_inflow":967.70609}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2021,"fdi_inflow":1071.91372}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2022,"fdi_inflow":635.82099}
-{"ISO":"LAO","countryname":"Lao People's Democratic Republic","Year":2023,"fdi_inflow":1668.16322}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2000,"fdi_inflow":33.89}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2001,"fdi_inflow":23.9}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2002,"fdi_inflow":4.5}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2003,"fdi_inflow":19.4}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2004,"fdi_inflow":17.0}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2005,"fdi_inflow":27.7}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2006,"fdi_inflow":187.4}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2007,"fdi_inflow":323.5}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2008,"fdi_inflow":227.7}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2009,"fdi_inflow":189.5}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2010,"fdi_inflow":278.8}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2011,"fdi_inflow":300.75}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2012,"fdi_inflow":617.75539}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2013,"fdi_inflow":681.39726}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2014,"fdi_inflow":867.64612}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2015,"fdi_inflow":1077.75991}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2016,"fdi_inflow":935.29617}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2017,"fdi_inflow":1686.27579}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2018,"fdi_inflow":1358.01951}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2019,"fdi_inflow":755.52412}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2020,"fdi_inflow":967.70609}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2021,"fdi_inflow":1071.91372}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2022,"fdi_inflow":635.82099}
+{"ISO":"LAO","countryname":"Lao PDR","Year":2023,"fdi_inflow":1668.16322}
 {"ISO":"MYS","countryname":"Malaysia","Year":2000,"fdi_inflow":3787.63158}
 {"ISO":"MYS","countryname":"Malaysia","Year":2001,"fdi_inflow":553.94737}
 {"ISO":"MYS","countryname":"Malaysia","Year":2002,"fdi_inflow":3203.42105}
@@ -214,27 +214,27 @@
 {"ISO":"THA","countryname":"Thailand","Year":2021,"fdi_inflow":14417.09}
 {"ISO":"THA","countryname":"Thailand","Year":2022,"fdi_inflow":11082.18}
 {"ISO":"THA","countryname":"Thailand","Year":2023,"fdi_inflow":4547.811}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2000,"fdi_inflow":1289.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2001,"fdi_inflow":1300.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2002,"fdi_inflow":1400.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2003,"fdi_inflow":1450.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2004,"fdi_inflow":1610.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2005,"fdi_inflow":1954.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2006,"fdi_inflow":2400.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2007,"fdi_inflow":6981.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2008,"fdi_inflow":9578.99749}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2009,"fdi_inflow":7600.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2010,"fdi_inflow":8000.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2011,"fdi_inflow":7519.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2012,"fdi_inflow":8368.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2013,"fdi_inflow":8900.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2014,"fdi_inflow":9200.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2015,"fdi_inflow":11800.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2016,"fdi_inflow":12600.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2017,"fdi_inflow":14100.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2018,"fdi_inflow":15500.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2019,"fdi_inflow":16120.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2020,"fdi_inflow":15800.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2021,"fdi_inflow":15660.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2022,"fdi_inflow":17900.0}
-{"ISO":"VNM","countryname":"Viet Nam","Year":2023,"fdi_inflow":18500.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2000,"fdi_inflow":1289.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2001,"fdi_inflow":1300.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2002,"fdi_inflow":1400.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2003,"fdi_inflow":1450.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2004,"fdi_inflow":1610.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2005,"fdi_inflow":1954.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2006,"fdi_inflow":2400.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2007,"fdi_inflow":6981.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2008,"fdi_inflow":9578.99749}
+{"ISO":"VNM","countryname":"VietNam","Year":2009,"fdi_inflow":7600.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2010,"fdi_inflow":8000.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2011,"fdi_inflow":7519.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2012,"fdi_inflow":8368.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2013,"fdi_inflow":8900.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2014,"fdi_inflow":9200.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2015,"fdi_inflow":11800.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2016,"fdi_inflow":12600.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2017,"fdi_inflow":14100.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2018,"fdi_inflow":15500.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2019,"fdi_inflow":16120.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2020,"fdi_inflow":15800.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2021,"fdi_inflow":15660.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2022,"fdi_inflow":17900.0}
+{"ISO":"VNM","countryname":"VietNam","Year":2023,"fdi_inflow":18500.0}

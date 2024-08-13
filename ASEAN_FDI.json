@@ -1,5 +1,149 @@
 [
     {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2000,
+        "FDI_inflow": 549.60725
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2001,
+        "FDI_inflow": 526.42565
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2002,
+        "FDI_inflow": 1035.52846
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2003,
+        "FDI_inflow": 3298.07426
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2004,
+        "FDI_inflow": 205.60847
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2005,
+        "FDI_inflow": 289.48364
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2006,
+        "FDI_inflow": 434.02954
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2007,
+        "FDI_inflow": 260.1671
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2008,
+        "FDI_inflow": 322.58656
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2009,
+        "FDI_inflow": 370.08188
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2010,
+        "FDI_inflow": 480.72255
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2011,
+        "FDI_inflow": 691.17027
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2012,
+        "FDI_inflow": 864.90553
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2013,
+        "FDI_inflow": 775.642
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2014,
+        "FDI_inflow": 567.88973
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2015,
+        "FDI_inflow": 173.24334
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2016,
+        "FDI_inflow": -149.64129
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2017,
+        "FDI_inflow": 460.08371
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2018,
+        "FDI_inflow": 517.30311
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2019,
+        "FDI_inflow": 374.57329
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2020,
+        "FDI_inflow": 577.44312
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2021,
+        "FDI_inflow": 204.74934
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2022,
+        "FDI_inflow": -292.41615
+    },
+    {
+        "ISO": "BRN",
+        "countryname": "Brunei Darussalam",
+        "Year": 2023,
+        "FDI_inflow": -51.0671
+    },
+    {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2000,
@@ -30,6 +174,840 @@
         "FDI_inflow": 131.416
     },
     {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2005,
+        "FDI_inflow": 381.18
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2006,
+        "FDI_inflow": 483.209
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2007,
+        "FDI_inflow": 867.289
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2008,
+        "FDI_inflow": 876.88449
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2009,
+        "FDI_inflow": 984.71307
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2010,
+        "FDI_inflow": 1404.31545
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2011,
+        "FDI_inflow": 1538.88342
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2012,
+        "FDI_inflow": 2003.849
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2013,
+        "FDI_inflow": 2068.471
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2014,
+        "FDI_inflow": 1853.471
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2015,
+        "FDI_inflow": 1822.804
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2016,
+        "FDI_inflow": 2475.916
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2017,
+        "FDI_inflow": 2785.73085
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2018,
+        "FDI_inflow": 3212.63345
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2019,
+        "FDI_inflow": 3663.033
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2020,
+        "FDI_inflow": 3624.645
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2021,
+        "FDI_inflow": 3483.462
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2022,
+        "FDI_inflow": 3578.831
+    },
+    {
+        "ISO": "KHM",
+        "countryname": "Cambodia",
+        "Year": 2023,
+        "FDI_inflow": 3958.792
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2000,
+        "FDI_inflow": -4550.37
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2001,
+        "FDI_inflow": -2977.39
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2002,
+        "FDI_inflow": 145.09
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2003,
+        "FDI_inflow": -596.92
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2004,
+        "FDI_inflow": 1895.89
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2005,
+        "FDI_inflow": 8336.257
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2006,
+        "FDI_inflow": 4914.221
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2007,
+        "FDI_inflow": 6928.471
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2008,
+        "FDI_inflow": 9318.454
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2009,
+        "FDI_inflow": 4877.87
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2010,
+        "FDI_inflow": 13770.58
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2011,
+        "FDI_inflow": 19241.25
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2012,
+        "FDI_inflow": 19137.87
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2013,
+        "FDI_inflow": 18816.66
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2014,
+        "FDI_inflow": 21810.52
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2015,
+        "FDI_inflow": 16641.45
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2016,
+        "FDI_inflow": 3921.23
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2017,
+        "FDI_inflow": 20579.23
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2018,
+        "FDI_inflow": 20563.47
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2019,
+        "FDI_inflow": 23883.25
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2020,
+        "FDI_inflow": 18590.96
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2021,
+        "FDI_inflow": 21131.11
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2022,
+        "FDI_inflow": 25389.92
+    },
+    {
+        "ISO": "IDN",
+        "countryname": "Indonesia",
+        "Year": 2023,
+        "FDI_inflow": 21627.67
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2000,
+        "FDI_inflow": 33.89
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2001,
+        "FDI_inflow": 23.9
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2002,
+        "FDI_inflow": 4.5
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2003,
+        "FDI_inflow": 19.4
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2004,
+        "FDI_inflow": 17.0
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2005,
+        "FDI_inflow": 27.7
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2006,
+        "FDI_inflow": 187.4
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2007,
+        "FDI_inflow": 323.5
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2008,
+        "FDI_inflow": 227.7
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2009,
+        "FDI_inflow": 189.5
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2010,
+        "FDI_inflow": 278.8
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2011,
+        "FDI_inflow": 300.75
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2012,
+        "FDI_inflow": 617.75539
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2013,
+        "FDI_inflow": 681.39726
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2014,
+        "FDI_inflow": 867.64612
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2015,
+        "FDI_inflow": 1077.75991
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2016,
+        "FDI_inflow": 935.29617
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2017,
+        "FDI_inflow": 1686.27579
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2018,
+        "FDI_inflow": 1358.01951
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2019,
+        "FDI_inflow": 755.52412
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2020,
+        "FDI_inflow": 967.70609
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2021,
+        "FDI_inflow": 1071.91372
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2022,
+        "FDI_inflow": 635.82099
+    },
+    {
+        "ISO": "LAO",
+        "countryname": "Lao PDR",
+        "Year": 2023,
+        "FDI_inflow": 1668.16322
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2000,
+        "FDI_inflow": 3787.63158
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2001,
+        "FDI_inflow": 553.94737
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2002,
+        "FDI_inflow": 3203.42105
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2003,
+        "FDI_inflow": 2473.15789
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2004,
+        "FDI_inflow": 4624.21053
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2005,
+        "FDI_inflow": 4065.39058
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2006,
+        "FDI_inflow": 6060.22605
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2007,
+        "FDI_inflow": 8594.73407
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2008,
+        "FDI_inflow": 7171.97849
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2009,
+        "FDI_inflow": 1453.0393
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2010,
+        "FDI_inflow": 9060.0421
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2011,
+        "FDI_inflow": 12197.57647
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2012,
+        "FDI_inflow": 9238.83061
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2013,
+        "FDI_inflow": 12115.46728
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2014,
+        "FDI_inflow": 10877.3452
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2015,
+        "FDI_inflow": 10082.34106
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2016,
+        "FDI_inflow": 11335.92773
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2017,
+        "FDI_inflow": 9398.81454
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2018,
+        "FDI_inflow": 7618.3377
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2019,
+        "FDI_inflow": 7812.77716
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2020,
+        "FDI_inflow": 3159.5149
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2021,
+        "FDI_inflow": 12173.37493
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2022,
+        "FDI_inflow": 16939.60068
+    },
+    {
+        "ISO": "MYS",
+        "countryname": "Malaysia",
+        "Year": 2023,
+        "FDI_inflow": 8652.706
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2000,
+        "FDI_inflow": 91.115
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2001,
+        "FDI_inflow": 15.29
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2002,
+        "FDI_inflow": 17.709
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2003,
+        "FDI_inflow": 1855.15
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2004,
+        "FDI_inflow": 729.93
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2005,
+        "FDI_inflow": 110.35
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2006,
+        "FDI_inflow": 724.245
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2007,
+        "FDI_inflow": 2.194
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2008,
+        "FDI_inflow": 603.425
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2009,
+        "FDI_inflow": 27.15
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2010,
+        "FDI_inflow": 6669.403
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2011,
+        "FDI_inflow": 1117.686
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2012,
+        "FDI_inflow": 496.877
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2013,
+        "FDI_inflow": 584.298
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2014,
+        "FDI_inflow": 946.223
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2015,
+        "FDI_inflow": 3141.38
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2016,
+        "FDI_inflow": 2929.606
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2017,
+        "FDI_inflow": 4408.891
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2018,
+        "FDI_inflow": 2891.919
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2019,
+        "FDI_inflow": 2508.877
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2020,
+        "FDI_inflow": 1907.15404
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2021,
+        "FDI_inflow": 2066.60647
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2022,
+        "FDI_inflow": 1238.5
+    },
+    {
+        "ISO": "MMR",
+        "countryname": "Myanmar",
+        "Year": 2023,
+        "FDI_inflow": 1520.172
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2000,
+        "FDI_inflow": 2240.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2001,
+        "FDI_inflow": 195.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2002,
+        "FDI_inflow": 1542.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2003,
+        "FDI_inflow": 491.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2004,
+        "FDI_inflow": 688.0
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2005,
+        "FDI_inflow": 1850.936
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2006,
+        "FDI_inflow": 2928.791
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2007,
+        "FDI_inflow": 2823.719
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2008,
+        "FDI_inflow": 1544.028
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2009,
+        "FDI_inflow": 1990.338
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2010,
+        "FDI_inflow": 1070.38694
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2011,
+        "FDI_inflow": 2007.15073
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2012,
+        "FDI_inflow": 3215.41516
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2013,
+        "FDI_inflow": 3737.37174
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2014,
+        "FDI_inflow": 5739.57402
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2015,
+        "FDI_inflow": 5639.15596
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2016,
+        "FDI_inflow": 8279.54827
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2017,
+        "FDI_inflow": 10256.4424
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2018,
+        "FDI_inflow": 9948.59882
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2019,
+        "FDI_inflow": 8671.36587
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2020,
+        "FDI_inflow": 6822.13329
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2021,
+        "FDI_inflow": 11983.36333
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2022,
+        "FDI_inflow": 5939.21499
+    },
+    {
+        "ISO": "PHL",
+        "countryname": "Philippines",
+        "Year": 2023,
+        "FDI_inflow": 6209.69279
+    },
+    {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2000,
@@ -58,5 +1036,407 @@
         "countryname": "Singapore",
         "Year": 2004,
         "FDI_inflow": 22324.8907
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2005,
+        "FDI_inflow": 17747.77698
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2006,
+        "FDI_inflow": 37480.37988
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2007,
+        "FDI_inflow": 42608.91779
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2008,
+        "FDI_inflow": 11810.14376
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2009,
+        "FDI_inflow": 18531.87671
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2010,
+        "FDI_inflow": 57460.08463
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2011,
+        "FDI_inflow": 39890.36238
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2012,
+        "FDI_inflow": 60102.98636
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2013,
+        "FDI_inflow": 56671.62151
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2014,
+        "FDI_inflow": 73286.61063
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2015,
+        "FDI_inflow": 59700.10838
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2016,
+        "FDI_inflow": 67507.58206
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2017,
+        "FDI_inflow": 85354.79713
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2018,
+        "FDI_inflow": 73115.08687
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2019,
+        "FDI_inflow": 97532.61719
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2020,
+        "FDI_inflow": 74857.47335
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2021,
+        "FDI_inflow": 126674.1001
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2022,
+        "FDI_inflow": 141117.6883
+    },
+    {
+        "ISO": "SGP",
+        "countryname": "Singapore",
+        "Year": 2023,
+        "FDI_inflow": 159669.6225
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2000,
+        "FDI_inflow": 3410.119
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2001,
+        "FDI_inflow": 5073.202
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2002,
+        "FDI_inflow": 3355.416
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2003,
+        "FDI_inflow": 5222.348
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2004,
+        "FDI_inflow": 5858.576
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2005,
+        "FDI_inflow": 8215.6372
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2006,
+        "FDI_inflow": 8917.47035
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2007,
+        "FDI_inflow": 9194.78515
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2008,
+        "FDI_inflow": 8054.35147
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2009,
+        "FDI_inflow": 5361.81182
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2010,
+        "FDI_inflow": 14554.95
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2011,
+        "FDI_inflow": 1370.363
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2012,
+        "FDI_inflow": 9135.216
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2013,
+        "FDI_inflow": 15493.02
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2014,
+        "FDI_inflow": 4809.074
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2015,
+        "FDI_inflow": 5623.782
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2016,
+        "FDI_inflow": 2491.28
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2017,
+        "FDI_inflow": 7874.923
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2018,
+        "FDI_inflow": 11705.38
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2019,
+        "FDI_inflow": 3765.093
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2020,
+        "FDI_inflow": -6283.98
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2021,
+        "FDI_inflow": 14417.09
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2022,
+        "FDI_inflow": 11082.18
+    },
+    {
+        "ISO": "THA",
+        "countryname": "Thailand",
+        "Year": 2023,
+        "FDI_inflow": 4547.811
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2000,
+        "FDI_inflow": 1289.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2001,
+        "FDI_inflow": 1300.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2002,
+        "FDI_inflow": 1400.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2003,
+        "FDI_inflow": 1450.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2004,
+        "FDI_inflow": 1610.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2005,
+        "FDI_inflow": 1954.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2006,
+        "FDI_inflow": 2400.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2007,
+        "FDI_inflow": 6981.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2008,
+        "FDI_inflow": 9578.99749
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2009,
+        "FDI_inflow": 7600.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2010,
+        "FDI_inflow": 8000.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2011,
+        "FDI_inflow": 7519.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2012,
+        "FDI_inflow": 8368.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2013,
+        "FDI_inflow": 8900.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2014,
+        "FDI_inflow": 9200.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2015,
+        "FDI_inflow": 11800.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2016,
+        "FDI_inflow": 12600.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2017,
+        "FDI_inflow": 14100.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2018,
+        "FDI_inflow": 15500.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2019,
+        "FDI_inflow": 16120.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2020,
+        "FDI_inflow": 15800.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2021,
+        "FDI_inflow": 15660.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2022,
+        "FDI_inflow": 17900.0
+    },
+    {
+        "ISO": "VNM",
+        "countryname": "VietNam",
+        "Year": 2023,
+        "FDI_inflow": 18500.0
     }
 ]

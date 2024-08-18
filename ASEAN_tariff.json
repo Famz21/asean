@@ -3,85 +3,85 @@
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2000,
-        "tariff_value": 12.35282
+        "tariff_value": 12.35
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2001,
-        "tariff_value": 10.28755
+        "tariff_value": 10.29
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2002,
-        "tariff_value": 10.25295
+        "tariff_value": 10.25
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2003,
-        "tariff_value": 9.978548
+        "tariff_value": 9.98
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2004,
-        "tariff_value": 19.26837
+        "tariff_value": 19.27
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2005,
-        "tariff_value": 19.74796
+        "tariff_value": 19.75
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2006,
-        "tariff_value": 20.18741
+        "tariff_value": 20.19
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2007,
-        "tariff_value": 19.57359
+        "tariff_value": 19.57
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2008,
-        "tariff_value": 14.90985
+        "tariff_value": 14.91
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2009,
-        "tariff_value": 14.46776
+        "tariff_value": 14.47
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2010,
-        "tariff_value": 21.67292
+        "tariff_value": 21.67
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2011,
-        "tariff_value": 12.90381
+        "tariff_value": 12.9
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2014,
-        "tariff_value": 6.459964
+        "tariff_value": 6.46
     },
     {
         "ISO": "BRN",
         "countryname": "Brunei Darussalam",
         "Year": 2016,
-        "tariff_value": 6.283561
+        "tariff_value": 6.28
     },
     {
         "ISO": "BRN",
@@ -117,649 +117,649 @@
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2001,
-        "tariff_value": 29.62963
+        "tariff_value": 29.63
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2002,
-        "tariff_value": 28.43684
+        "tariff_value": 28.44
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2003,
-        "tariff_value": 26.90265
+        "tariff_value": 26.9
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2005,
-        "tariff_value": 22.12097
+        "tariff_value": 22.12
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2006,
-        "tariff_value": 21.34772
+        "tariff_value": 21.35
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2007,
-        "tariff_value": 48.81963
+        "tariff_value": 48.82
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2008,
-        "tariff_value": 19.68489
+        "tariff_value": 19.68
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2010,
-        "tariff_value": 12.32474
+        "tariff_value": 12.32
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2011,
-        "tariff_value": 9.776839
+        "tariff_value": 9.78
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2012,
-        "tariff_value": 10.55274
+        "tariff_value": 10.55
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2014,
-        "tariff_value": 30.58793
+        "tariff_value": 30.59
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2016,
-        "tariff_value": 10.38446
+        "tariff_value": 10.38
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2020,
-        "tariff_value": 7.422699
+        "tariff_value": 7.42
     },
     {
         "ISO": "KHM",
         "countryname": "Cambodia",
         "Year": 2021,
-        "tariff_value": 6.925839
+        "tariff_value": 6.93
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2000,
-        "tariff_value": 11.14527
+        "tariff_value": 11.15
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2001,
-        "tariff_value": 3.083941
+        "tariff_value": 3.08
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2002,
-        "tariff_value": 2.979603
+        "tariff_value": 2.98
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2003,
-        "tariff_value": 3.133229
+        "tariff_value": 3.13
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2004,
-        "tariff_value": 6.987374
+        "tariff_value": 6.99
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2005,
-        "tariff_value": 6.789559
+        "tariff_value": 6.79
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2006,
-        "tariff_value": 6.574374
+        "tariff_value": 6.57
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2007,
-        "tariff_value": 12.73369
+        "tariff_value": 12.73
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2008,
-        "tariff_value": 3.661355
+        "tariff_value": 3.66
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2009,
-        "tariff_value": 10.93572
+        "tariff_value": 10.94
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2010,
-        "tariff_value": 7.213481
+        "tariff_value": 7.21
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2011,
-        "tariff_value": 7.614662
+        "tariff_value": 7.61
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2012,
-        "tariff_value": 1.468665
+        "tariff_value": 1.47
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2013,
-        "tariff_value": 7.946181
+        "tariff_value": 7.95
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2016,
-        "tariff_value": 6.879239
+        "tariff_value": 6.88
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2017,
-        "tariff_value": 12.02772
+        "tariff_value": 12.03
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2018,
-        "tariff_value": 7.871694
+        "tariff_value": 7.87
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2019,
-        "tariff_value": 8.24086
+        "tariff_value": 8.24
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2020,
-        "tariff_value": 8.508014
+        "tariff_value": 8.51
     },
     {
         "ISO": "IDN",
         "countryname": "Indonesia",
         "Year": 2021,
-        "tariff_value": 7.820616
+        "tariff_value": 7.82
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2000,
-        "tariff_value": 11.35697
+        "tariff_value": 11.36
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2001,
-        "tariff_value": 12.90387
+        "tariff_value": 12.9
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2004,
-        "tariff_value": 8.889669
+        "tariff_value": 8.89
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2005,
-        "tariff_value": 15.49439
+        "tariff_value": 15.49
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2006,
-        "tariff_value": 14.51774
+        "tariff_value": 14.52
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2007,
-        "tariff_value": 16.08492
+        "tariff_value": 16.08
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2008,
-        "tariff_value": 20.38035
+        "tariff_value": 20.38
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2014,
-        "tariff_value": 7.588002
+        "tariff_value": 7.59
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2015,
-        "tariff_value": 7.03108
+        "tariff_value": 7.03
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2016,
-        "tariff_value": 2.213547
+        "tariff_value": 2.21
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2017,
-        "tariff_value": 2.22559
+        "tariff_value": 2.23
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2018,
-        "tariff_value": 1.907042
+        "tariff_value": 1.91
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2019,
-        "tariff_value": 1.976197
+        "tariff_value": 1.98
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2020,
-        "tariff_value": 2.162308
+        "tariff_value": 2.16
     },
     {
         "ISO": "LAO",
         "countryname": "Lao PDR",
         "Year": 2021,
-        "tariff_value": 2.444291
+        "tariff_value": 2.44
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2000,
-        "tariff_value": 22.89215
+        "tariff_value": 22.89
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2001,
-        "tariff_value": 21.73605
+        "tariff_value": 21.74
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2002,
-        "tariff_value": 21.2689
+        "tariff_value": 21.27
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2003,
-        "tariff_value": 21.51282
+        "tariff_value": 21.51
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2004,
-        "tariff_value": 22.36412
+        "tariff_value": 22.36
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2005,
-        "tariff_value": 22.43198
+        "tariff_value": 22.43
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2006,
-        "tariff_value": 23.92315
+        "tariff_value": 23.92
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2007,
-        "tariff_value": 24.97198
+        "tariff_value": 24.97
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2008,
-        "tariff_value": 17.03477
+        "tariff_value": 17.03
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2009,
-        "tariff_value": 16.51451
+        "tariff_value": 16.51
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2010,
-        "tariff_value": 15.70925
+        "tariff_value": 15.71
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2011,
-        "tariff_value": 18.92049
+        "tariff_value": 18.92
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2012,
-        "tariff_value": 18.67751
+        "tariff_value": 18.68
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2013,
-        "tariff_value": 18.70887
+        "tariff_value": 18.71
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2014,
-        "tariff_value": 13.02769
+        "tariff_value": 13.03
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2016,
-        "tariff_value": 16.64028
+        "tariff_value": 16.64
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2020,
-        "tariff_value": 19.60706
+        "tariff_value": 19.61
     },
     {
         "ISO": "MYS",
         "countryname": "Malaysia",
         "Year": 2021,
-        "tariff_value": 19.77056
+        "tariff_value": 19.77
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2000,
-        "tariff_value": 3.472427
+        "tariff_value": 3.47
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2001,
-        "tariff_value": 3.01243
+        "tariff_value": 3.01
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2002,
-        "tariff_value": 3.01243
+        "tariff_value": 3.01
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2003,
-        "tariff_value": 3.01243
+        "tariff_value": 3.01
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2004,
-        "tariff_value": 2.682648
+        "tariff_value": 2.68
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2005,
-        "tariff_value": 4.003383
+        "tariff_value": 4.0
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2006,
-        "tariff_value": 2.996899
+        "tariff_value": 3.0
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2007,
-        "tariff_value": 8.249225
+        "tariff_value": 8.25
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2008,
-        "tariff_value": 2.996899
+        "tariff_value": 3.0
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2010,
-        "tariff_value": 1.728844
+        "tariff_value": 1.73
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2011,
-        "tariff_value": 1.714486
+        "tariff_value": 1.71
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2012,
-        "tariff_value": 3.718476
+        "tariff_value": 3.72
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2013,
-        "tariff_value": 3.892757
+        "tariff_value": 3.89
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2015,
-        "tariff_value": 5.702391
+        "tariff_value": 5.7
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2019,
-        "tariff_value": 3.983879
+        "tariff_value": 3.98
     },
     {
         "ISO": "MMR",
         "countryname": "Myanmar",
         "Year": 2021,
-        "tariff_value": 2.844216
+        "tariff_value": 2.84
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2000,
-        "tariff_value": 7.452278
+        "tariff_value": 7.45
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2001,
-        "tariff_value": 6.64447
+        "tariff_value": 6.64
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2002,
-        "tariff_value": 1.587589
+        "tariff_value": 1.59
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2003,
-        "tariff_value": 1.574889
+        "tariff_value": 1.57
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2004,
-        "tariff_value": 4.672792
+        "tariff_value": 4.67
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2005,
-        "tariff_value": 4.672792
+        "tariff_value": 4.67
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2006,
-        "tariff_value": 4.66012
+        "tariff_value": 4.66
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2007,
-        "tariff_value": 15.9686
+        "tariff_value": 15.97
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2008,
-        "tariff_value": 4.973702
+        "tariff_value": 4.97
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2009,
-        "tariff_value": 5.076101
+        "tariff_value": 5.08
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2010,
-        "tariff_value": 5.058745
+        "tariff_value": 5.06
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2011,
-        "tariff_value": 3.573784
+        "tariff_value": 3.57
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2012,
-        "tariff_value": 3.332976
+        "tariff_value": 3.33
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2013,
-        "tariff_value": 3.784255
+        "tariff_value": 3.78
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2015,
-        "tariff_value": 3.800133
+        "tariff_value": 3.8
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2016,
-        "tariff_value": 4.331185
+        "tariff_value": 4.33
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2017,
-        "tariff_value": 11.29258
+        "tariff_value": 11.29
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2018,
-        "tariff_value": 3.50494
+        "tariff_value": 3.5
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2019,
-        "tariff_value": 3.158467
+        "tariff_value": 3.16
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2020,
-        "tariff_value": 3.828029
+        "tariff_value": 3.83
     },
     {
         "ISO": "PHL",
         "countryname": "Philippines",
         "Year": 2021,
-        "tariff_value": 2.841186
+        "tariff_value": 2.84
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2000,
-        "tariff_value": 0.1546103
+        "tariff_value": 0.15
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2001,
-        "tariff_value": 0.1888672
+        "tariff_value": 0.19
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2002,
-        "tariff_value": 0.277815
+        "tariff_value": 0.28
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2003,
-        "tariff_value": 0.2227955
+        "tariff_value": 0.22
     },
     {
         "ISO": "SGP",
@@ -771,312 +771,312 @@
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2005,
-        "tariff_value": 0.0953885
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2006,
-        "tariff_value": 0.101719
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2007,
-        "tariff_value": 0.0685612
+        "tariff_value": 0.07
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2008,
-        "tariff_value": 0.0877578
+        "tariff_value": 0.09
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2009,
-        "tariff_value": 0.0795977
+        "tariff_value": 0.08
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2010,
-        "tariff_value": 0.0905257
+        "tariff_value": 0.09
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2011,
-        "tariff_value": 0.1363462
+        "tariff_value": 0.14
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2012,
-        "tariff_value": 0.0844143
+        "tariff_value": 0.08
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2013,
-        "tariff_value": 0.0965544
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2014,
-        "tariff_value": 0.0965544
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2015,
-        "tariff_value": 0.0839399
+        "tariff_value": 0.08
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2016,
-        "tariff_value": 0.0863695
+        "tariff_value": 0.09
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2017,
-        "tariff_value": 0.0740438
+        "tariff_value": 0.07
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2018,
-        "tariff_value": 0.0732805
+        "tariff_value": 0.07
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2019,
-        "tariff_value": 0.0980479
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2020,
-        "tariff_value": 0.0996771
+        "tariff_value": 0.1
     },
     {
         "ISO": "SGP",
         "countryname": "Singapore",
         "Year": 2021,
-        "tariff_value": 0.0462271
+        "tariff_value": 0.05
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2000,
-        "tariff_value": 46.93856
+        "tariff_value": 46.94
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2001,
-        "tariff_value": 49.82122
+        "tariff_value": 49.82
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2003,
-        "tariff_value": 46.93846
+        "tariff_value": 46.94
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2004,
-        "tariff_value": 23.85524
+        "tariff_value": 23.86
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2005,
-        "tariff_value": 22.12368
+        "tariff_value": 22.12
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2006,
-        "tariff_value": 22.94062
+        "tariff_value": 22.94
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2007,
-        "tariff_value": 19.16292
+        "tariff_value": 19.16
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2008,
-        "tariff_value": 19.79976
+        "tariff_value": 19.8
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2009,
-        "tariff_value": 20.22404
+        "tariff_value": 20.22
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2010,
-        "tariff_value": 19.62081
+        "tariff_value": 19.62
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2011,
-        "tariff_value": 20.77977
+        "tariff_value": 20.78
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2013,
-        "tariff_value": 26.58887
+        "tariff_value": 26.59
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2014,
-        "tariff_value": 18.22386
+        "tariff_value": 18.22
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2015,
-        "tariff_value": 16.70403
+        "tariff_value": 16.7
     },
     {
         "ISO": "THA",
         "countryname": "Thailand",
         "Year": 2021,
-        "tariff_value": 20.1111
+        "tariff_value": 20.11
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2001,
-        "tariff_value": 33.17054
+        "tariff_value": 33.17
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2002,
-        "tariff_value": 32.13597
+        "tariff_value": 32.14
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2003,
-        "tariff_value": 34.90091
+        "tariff_value": 34.9
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2004,
-        "tariff_value": 31.15094
+        "tariff_value": 31.15
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2005,
-        "tariff_value": 30.83059
+        "tariff_value": 30.83
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2006,
-        "tariff_value": 31.03388
+        "tariff_value": 31.03
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2007,
-        "tariff_value": 32.967
+        "tariff_value": 32.97
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2008,
-        "tariff_value": 19.7491
+        "tariff_value": 19.75
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2009,
-        "tariff_value": 20.25399
+        "tariff_value": 20.25
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2010,
-        "tariff_value": 23.78657
+        "tariff_value": 23.79
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2012,
-        "tariff_value": 16.48646
+        "tariff_value": 16.49
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2013,
-        "tariff_value": 20.71274
+        "tariff_value": 20.71
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2014,
-        "tariff_value": 20.87733
+        "tariff_value": 20.88
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2015,
-        "tariff_value": 19.97052
+        "tariff_value": 19.97
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2016,
-        "tariff_value": 20.87451
+        "tariff_value": 20.87
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2017,
-        "tariff_value": 20.94936
+        "tariff_value": 20.95
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2018,
-        "tariff_value": 16.66305
+        "tariff_value": 16.66
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2019,
-        "tariff_value": 14.7376
+        "tariff_value": 14.74
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2020,
-        "tariff_value": 14.44614
+        "tariff_value": 14.45
     },
     {
         "ISO": "VNM",
         "countryname": "VietNam",
         "Year": 2021,
-        "tariff_value": 9.487605
+        "tariff_value": 9.49
     }
 ]
